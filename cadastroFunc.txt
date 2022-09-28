@@ -1,0 +1,49 @@
+Murelopalhaco1234Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+Digite o nome: 323
+Digite a raça: 1313
+Digite a senha: 323
+<br><br>Digite o nome: Jofrey
+Digite a raça: Lerry
+Digite a senha: 234
+<br><br>Digite o nome: 
+Digite a raça: 
+Digite a senha: 
+<br><br>Digite o nome: 
+Digite a raça: 
+Digite a senha: 
+<br><br>Digite o nome: 
+Digite a raça: 
+Digite a senha: 
+<br><br>Digite o nome: Murelo
+Digite a raça: 2323
+Digite a senha: 323
+<br><br>Digite o nome: 
+Digite a raça: 
+Digite a senha: 
+<br><br>Digite o nome: 
+Digite a raça: 
+Digite a senha: 
+<br><br>Digite o nome: Murelo
+Digite a raça: palhaco
+Digite a senha: 1234
+<br><br>Digite o nome: 
+Digite a raça: 
+Digite a senha: 
+<br><br>
